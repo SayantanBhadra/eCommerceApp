@@ -1,0 +1,23 @@
+CategoryId,CategoryName,ParentId,Description,IsMandatory
+1,AC,NULL,AC,N
+2,Mobile,NULL,Mobile,N
+3,Split AC,1,Split AC,Y
+4,Tonnage,1,Tonnage,Y
+5,Brand,1,Brand,Y
+6,Coil Type,1,Coil Type,Y
+7,Inverter,1,Inverter,Y
+8,Refrigerent,1,Refrigerent,Y
+9,Manufacturing Year,1,Manufacturing Year,Y
+10,Wifi,1,Wifi,Y
+11,Screen Size,2,Screen Size,Y
+12,OS,2,OS,Y
+13,Brand,2,Brand,Y
+14,RAM,2,RAM,Y
+15,Processor,2,Processor,Y
+16,Front Camera,2,Front Camera,Y
+17,Rear Camera,2,Rear Camera,Y
+18,Finger Print Enabled,2,Finger Print Enabled,N
+19,Face Lock Enabled,2,Face Lock Enabled,N
+20,Manufacturing Year,2,Manufacturing Year,Y
+21,Screen Type,2,Screen Type,N
+22,Graphics Card,2,Graphics Card,N

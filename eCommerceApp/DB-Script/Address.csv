@@ -1,0 +1,7 @@
+AddressId,UserId,BuildingNo,Block,City,PinCode,AddressType,Alias,IsDefault
+1,1,11,"BT Road,Khardah",Kolkata,700152,R,Home_Jayanta,Y
+2,1,11/1,Sector V SaltLake,Kolkata,700059,O,Office_Jayanta,N
+3,2,236 ,"Singhaniya Wadi, Ganesh Baug, Dadisheth Agyari Lane, Opp Fire Brigade, Kalbadevi", Mumbai,400002,R,,Y
+4,3,246,"Kali Bari Second Lane, Bally",Kolkata,700131,R,,Y
+5,4,B-16,"Apmc Mkt Ii, Phase Ii, Vashi, Navi Mumbai", Mumbai,400705,R,,Y
+6,5,17,"Seethakathai Salai, Mogappair East", Chennai,600037,R,,Y
